@@ -1,4 +1,4 @@
-![trogdor](trogdor.svg)
+![trogdor](trogdor.gif)
 
 After Effects animations for Trogdor. See [live demo](https://www.chadly.net/trogdor/) of it being used with [Lottie](https://airbnb.io/lottie/).
 
